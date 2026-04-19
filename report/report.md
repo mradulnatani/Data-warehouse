@@ -2,9 +2,9 @@
 
 ### *Mradul Natani*
 
-Department of Computer Science
-[Your College Name]
-Email: [your email]
+Department of Computer Applications
+International Institute of Professional Studies
+Email: mradulnatani0@gmail.com
 
 ---
 

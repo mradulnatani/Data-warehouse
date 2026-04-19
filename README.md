@@ -36,7 +36,7 @@ https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce
 ##  Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mradulnatani/Data-warehouse
 cd Data-warehouse
 ```
 
